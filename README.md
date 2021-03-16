@@ -1,3 +1,6 @@
+Nicolas Maldonado - 201921739
+David Rincon - 201921719
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
